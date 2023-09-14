@@ -6,7 +6,7 @@
 ## Stories
 this is going to be a 4 part story where you all of the characters meet up in various parts of the game. You can control the path you take.
 
-- i want the path to be drawn out as a lily(life), scribble(chaos), momento mori(death), grabbing the scissors of fate(control)
+- i want the path to be drawn out as a lily(life), apple of discord(chaos), momento mori(death), grabbing the scissors of fate(control)
 - devine deites pull the path
 - players choose the path in the beginning of the game with missions hinting the four points
 
